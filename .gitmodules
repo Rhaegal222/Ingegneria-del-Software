@@ -7,3 +7,6 @@
 [submodule "Esempio-IngSw-2023"]
 	path = Esempio-IngSw-2023
 	url = https://github.com/maborroto/Esempio-IngSw-2023.git
+[submodule "IngSwTestMock"]
+	path = IngSwTestMock
+	url = https://github.com/Didattica-IngSw/IngSwTestMock.git
