@@ -10,3 +10,6 @@
 [submodule "IngSwTestMock"]
 	path = IngSwTestMock
 	url = https://github.com/Didattica-IngSw/IngSwTestMock.git
+[submodule "PhoneBook"]
+	path = PhoneBook
+	url = https://github.com/Rhaegal222/PhoneBook
